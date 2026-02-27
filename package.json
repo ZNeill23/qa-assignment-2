@@ -1,0 +1,13 @@
+{
+    "name": "event-checkin",
+    "version": "1.0.0",
+    "type": "commonjs",
+    "scripts": {
+        "test": "jest",
+        "test:unit": "jest test/unit.test.js",
+        "test:integration": "jest test/integration.test.js"
+    },
+    "devDependencies": {
+        "jest": "^30.2.0"
+    }
+}
